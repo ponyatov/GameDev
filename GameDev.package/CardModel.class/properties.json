@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "DmitryPonyatov 8/23/2018 18:38",
+	"super" : "Object",
+	"category" : "GameDev",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CardModel",
+	"type" : "normal"
+}
